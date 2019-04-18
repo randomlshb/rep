@@ -10,3 +10,11 @@ Forefront singing Cat Car Caught together and then randomly: [video](https://www
 
 ![forefont](Forefront/catcarcaught.png)
 
+Major chord followed by each note individually on a drone.
+This can be used to see which upper harmonic to focus on for tuning.
+
+![tuning](Drone-MajorChord.png)
+
+Same as above but a Major 7 (barbershop 7).
+
+![tuning](Drone-Maj7.png)
