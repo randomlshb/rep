@@ -17,4 +17,4 @@ This can be used to see which upper harmonic to focus on for tuning.
 
 Same as above but a Major 7 (barbershop 7).
 
-![tuning](Drone-Maj7.png)
+![tuning2](Drone-Maj7Chord.png)
