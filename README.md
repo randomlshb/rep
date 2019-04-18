@@ -18,3 +18,13 @@ This can be used to see which upper harmonic to focus on for tuning.
 Same as above but a Major 7 (barbershop 7).
 
 ![tuning2](Drone-Maj7Chord.png)
+
+Ambassadors of Harmony tuning overtones: [video](https://www.youtube.com/watch?v=sCdQVqQXkzc&t=15s)
+
+Here we have a G/Bb and then a G/A. Here is the chorus in VoceVista
+
+![loch1](ChorusVIdeos/AmbassadorsLochLomond.png)
+
+Here we have the same passage but played on a drone for each pitch. Note that on the G/A clash, they share an overtone around 1760 Hz (D6)
+
+![loch2](ChorusVIdeos//AmbassadorLochLomondDrone.png)
