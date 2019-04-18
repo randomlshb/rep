@@ -19,7 +19,9 @@ Same as above but a Major 7 (barbershop 7).
 
 ![tuning2](Drone-Maj7Chord.png)
 
-Ambassadors of Harmony tuning overtones: [video](https://www.youtube.com/watch?v=sCdQVqQXkzc&t=15s)
+### Ambassadors of Harmony 
+
+[Tuning Overtones](https://www.youtube.com/watch?v=sCdQVqQXkzc&t=15s)
 
 Here we have a G/Bb and then a G/A. Here is the chorus in VoceVista
 
