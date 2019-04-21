@@ -43,4 +43,14 @@ Bet  Bite     Boyd        Beaut
 Bait Bot (ah) Bout        Boot
 ```
 
+My personal F1 vs F2 chart is below:
+
+[f1f2](PersonalRecordings/F1F2.png)
+
 [Google sheets](https://docs.google.com/spreadsheets/d/1fNc0Kbf_GSXRq0rsk7H98FTiiYq-U10lMulJl6TraBk/edit?usp=sharing)
+
+### Measuring formants
+
+Using the `Analysis` window in VoceVista, select a region of vocal fry on a given vowel. The average peaks are given in a tabular view, which can then be copied over to a Google Sheets for a graph.
+
+[measuring](PersonalRecordings/measuring-formants.png)
