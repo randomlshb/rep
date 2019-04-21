@@ -30,3 +30,17 @@ Here we have a G/Bb and then a G/A. Here is the chorus in VoceVista
 Here we have the same passage but played on a drone for each pitch. Note that on the G/A clash, they share an overtone around 1760 Hz (D6)
 
 ![loch2](ChorusVIdeos//AmbassadorLochLomondDrone.png)
+
+
+### Personal formant mapping
+
+Measured using vocal fry on the following words (taken from [these exercises](docs/exercises.df))
+
+```
+Beet Bat      Bought (aw) Book 
+Bit  But      Boat        Burt 
+Bet  Bite     Boyd        Beaut 
+Bait Bot (ah) Bout        Boot
+```
+
+[Google sheets](https://docs.google.com/spreadsheets/d/1fNc0Kbf_GSXRq0rsk7H98FTiiYq-U10lMulJl6TraBk/edit?usp=sharing)
