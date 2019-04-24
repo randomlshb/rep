@@ -56,3 +56,14 @@ The full Google Sheets can be found here:
 Using the `Analysis` window in VoceVista, select a region of vocal fry on a given vowel. The average peaks are given in a tabular view, which can then be copied over to a Google Sheets for a graph.
 
 ![measuring](PersonalRecordings/measuring-formants.png)
+
+### Videos
+
+Scott Kitzmiller Resonance:
+
+https://www.facebook.com/barbershopharmonysociety/videos/10154398742192318/
+https://www.facebook.com/barbershopharmonysociety/videos/10154398713092318/
+
+Ian Howell videos from thesis:
+
+http://vocped.ianhowell.net/figures/
